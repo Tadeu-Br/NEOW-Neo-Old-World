@@ -1,0 +1,59 @@
+
+cinematographer = {
+		graphical_culture = frenchgfx
+
+		icon = 176
+		
+		color = { 216 166 0}
+
+		scripture_name = THE_SCRIPT
+		
+		high_god_name = GOD_OSCAR
+		
+		priest_title = DIRECTOR
+		
+		interface_skin = { ironist_interface OWC_interface pagan_interface }
+		
+		god_names = {
+			GOD_ALFRED_HITCHCOCK GOD_AUDREY_HEPBURN GOD_ELIZABETH_TAYLOR GOD_NICOLAS_CAGE GOD_SOFIA_COPPOLLA GOD_AL_PACINO GOD_ROBERT_DE_NIRO GOD_CHRIS_SLATER GOD_GRACE_KELLY GOD_MARILYN_MONROE GOD_QUENTIN_TARANTINO GOD_STEVEN_SPIELBERG
+		}
+		
+		evil_god_names = {
+			BUDGE_CUT RASPBERRY_AWARD SACHA_BARON_COHEN IRRELEVANCY
+		}
+		
+		aggression = 1.1
+		allow_rivermovement = yes
+		allow_viking_invasion = no
+		allow_looting = no
+		priests_can_marry = yes
+		has_heir_designation = yes
+		max_consorts = 2
+		feminist = yes
+		women_can_take_consorts = yes
+		priests_can_inherit = no
+		female_temple_holders = yes
+		male_temple_holders = yes
+		defensive_attrition = yes
+		ignores_defensive_attrition = yes
+		piety_name = TALENT 
+		can_call_crusade = yes
+		crusade_name = "GRAND_PRODUCTION"
+		landed_kin_prestige_bonus = yes
+		rel_head_defense = yes
+		heresy_icon = 7
+			#notused, lol
+		uses_jizya_tax = yes
+	
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		
+		intermarry = jadidist
+		intermarry = brethren
+		intermarry = yersenism
+		intermarry = maoist
+		intermarry = stalinist
+		intermarry = leninist
+		intermarry = trotskyite
+		intermarry = titoist
+	}
+	
