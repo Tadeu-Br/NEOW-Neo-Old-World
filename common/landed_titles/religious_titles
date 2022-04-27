@@ -1,0 +1,33 @@
+#just add it
+
+d_cinematographer = {
+	color={ 227 114 27 }
+	color2={ 219 11 39 }
+	
+	capital = 356 # Venice
+	
+	title = "HEAD_JUDGE"
+	foa = "HEAD_JUDGE_FOA"
+	short_name = yes
+	location_ruler_title = yes
+	
+	# Always exists
+	landless = yes
+	
+	# Controls a religion
+	controls_religion = cinematographer
+	
+	religion = cinematographer
+	
+	culture = lazian
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	assimilate = no
+	
+	dynasty_title_names = no 	
+	# Will not be named "Seljuk", etc.
+
+	dignity = 400	
+}
