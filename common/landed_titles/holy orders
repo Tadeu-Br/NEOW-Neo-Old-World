@@ -1,0 +1,25 @@
+#just add it to the right file-o
+
+
+
+d_little_lanterns = {
+    color = { 99 0 0 }
+    color2 = { 182 155 0 }
+
+	
+	graphical_culture = holygfx
+	capital = 333
+    religion = "cinematographer"
+	culture = prussian
+    landless = yes
+    primary = yes
+    mercenary_type = knights_templar_composition
+    holy_order = yes
+    title = "LITTLE_LANTERN_HEAD_OF_SECURITY"
+	
+	foa = "LITTLE_LANTERN_FOA"
+    short_name = yes
+    strength_growth_per_century = 0.40
+	independent = yes
+    monthly_income = 10
+    }
